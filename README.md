@@ -1,4 +1,4 @@
-![image](https://github.com/vicute0707/KTVTKPM_tuan5_gateway_eureka/assets/122417490/e36a1dba-41fc-4159-a0d3-6c3bbc674624)1.Create service user
+1.Create service user
 ![image](https://github.com/vicute0707/KTVTKPM_tuan5_gateway_eureka/assets/122417490/baa31a53-c7b9-4b46-bc1a-77702b31a5ca)
 2.Create service product
 ![image](https://github.com/vicute0707/KTVTKPM_tuan5_gateway_eureka/assets/122417490/5c30c33b-d124-459e-bc67-c211b71357c1)
